@@ -1,1 +1,1 @@
-
+mpm init -y
