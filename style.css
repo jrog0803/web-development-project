@@ -1,11 +1,11 @@
-/* Reset CSS */
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/* Global Styles */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -21,7 +21,7 @@ body {
     padding: 0 20px;
 }
 
-/* Navigation Styles */
+
 nav {
     background-color: #333;
     color: #fff;
@@ -64,7 +64,7 @@ header p {
     font-size: 18px;
 }
 
-/* Main Content Styles */
+
 section {
     padding: 50px 0;
 }
@@ -79,7 +79,7 @@ section p {
     margin-bottom: 20px;
 }
 
-/* About Page Styles */
+
 .about-content {
     display: flex;
     align-items: center;
@@ -99,7 +99,7 @@ section p {
     flex: 2;
 }
 
-/* Contact Page Styles */
+
 .contact-form {
     max-width: 600px;
     margin: 0 auto;
